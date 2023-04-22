@@ -1,0 +1,208 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+    
+}
+
+h1{
+    font-size: 5.625em;
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+}
+
+h2{
+    font-weight: normal;
+    color:#66BFBF;
+    font-size: 1.5rem;
+}
+
+h3{
+    font-family: 'Merriweather', serif;
+    color:#1A5F7A;
+    font-size: 2rem;
+}
+.hrr{
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+/*----------------------------------------top------------------------------------------------------------------------------------------*/
+.first-container{
+    background-color:#57C5B6;
+    position: relative;
+    padding-top: 100px;
+    font-family: verdana,sans-serif;
+    margin-bottom: 0;
+
+}
+.des{
+    position: relative;
+    display: block;
+    padding-left: 12rem;
+    padding-right: 12rem;
+   
+}
+title.h{
+    font-size: 2.5rem;
+}
+/*------------------------------------mid----------------------------------------------------------------------------------------------*/
+
+
+.second-container{
+    position: relative;
+
+}
+.pro-img{
+    position: relative;
+    padding-top: 5px;
+    height: 250px;
+    width: 250px;
+    float: left;
+    margin-right: 30px;
+    
+
+
+}
+.s1-img{
+    width: 25%;
+    float: left;
+    margin-right: 35px;
+}
+.s2-img{
+    width: 30%;
+    float: right;
+    margin-right: 35px;
+}
+
+.profile{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+/*-------------------------------------------------bottom---------------------------------------------------------------------------------*/
+.third-container{
+    background-color: #1A5F7A;
+    position: relative;
+    padding: 10px;
+    
+
+}
+.hire{
+    color: #ffff;
+}
+
+/*-----------------------------------------------------------------------------------------------------------------------------------------*/
+.fourth-container{
+    padding-top: 5%;
+}
+.project-box{
+    display: flex;
+
+    
+}
+.box{
+    flex: 1;
+    height: 300px;
+}
+.box1{
+    border: 1px solid grey;
+    margin-left: 3rem;
+    border-radius: 5%; 
+}
+.box2{
+    border: 1px solid grey;
+    margin-left: 3rem;
+    border-radius: 5%; 
+}
+.box3{
+    border: 1px solid grey;
+    margin-left: 3rem;
+    border-radius: 5%; 
+    margin-right: 3rem;
+}
+.c-soon{
+    padding-top: 10%;
+    height: 180px;
+    align-items: center;
+    
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------*/
+.fifth-container{
+    padding-bottom: 20px;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+.contact-me{
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.message{
+    width: 630px;
+    height: 250px;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    padding: 6px 12px;
+    outline: 0;
+    background-color: rgba(0, 0, 0, 0.01);
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+}
+.name,.Email{
+    width: 300px;
+    height: 36px;
+    margin-bottom: 1rem;
+    font-family: 'Open Sans',sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 23px;
+    padding: 6px 12px;
+    outline: 0;
+    background-color: rgba(0, 0, 0, 0.01);
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+
+}
+/*---------------------------------------------------cloud------------------------------------------------------------------------------*/
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    color: white;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+    color: white;
+}
+/*----------------------------------------------------------------------------------------------------------------------------------*/
+
+    
+.bottom-container{
+    padding-top: 10%;
+    background-color: #1A5F7A;
+    padding: 20px;
+    position: relative;
+    
+}
+.footer-link{
+    color: white;
+}
